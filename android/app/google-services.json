@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238071767952",
+    "project_id": "miaged-50439",
+    "storage_bucket": "miaged-50439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238071767952:android:0d9730d27d757c72c84915",
+        "android_client_info": {
+          "package_name": "com.app.m2miage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9eoUn4fziES1evPF852oe6YeqCg7EBVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
