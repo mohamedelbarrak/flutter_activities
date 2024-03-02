@@ -1,4 +1,4 @@
-## m2miage
+## MIAGED
 
 Ce projet consiste à développer une application mobile permettant de proposer des activités à réaliser en groupe. L'objectif est de créer une version MVP (Minimum viable product) qui répond aux besoins essentiels des utilisateurs. Le développement de l'application sera basé sur des User Stories, en suivant les méthodologies agiles.
 
@@ -75,7 +75,25 @@ Dans ce cas, nous n'avons pas encore d'activités de shopping disponibles
 
 ![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/7183c51b-6cd4-4f4a-9fa8-3fd3bef78162)
 
-### 
+#### Détail d'une activité
+
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/3f17faa1-2100-4fd4-af7b-4977e7348af5)
+
+## Ajouter une activité
+
+Message ""
+
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/6fb9d9f5-e1cb-4752-9047-3b2bd7f6a1ac)
+
+
+## Cart
+
+Vide
+
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/114da3b2-3014-457c-93a6-8c757e928953)
+
+Non vide
+
 
 ## Firebase
 
