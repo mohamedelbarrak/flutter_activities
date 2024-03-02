@@ -1,16 +1,9 @@
-# m2miage
+## m2miage
 
-A new Flutter project.
+Ce projet consiste à développer une application mobile permettant de proposer des activités à réaliser en groupe. L'objectif est de créer une version MVP (Minimum viable product) qui répond aux besoins essentiels des utilisateurs. Le développement de l'application sera basé sur des User Stories, en suivant les méthodologies agiles.
 
-## Getting Started
+## Login
+Email: mohamedelbarrak@gmail.com
+Password: 123456
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/a1abae6a-a04a-4ec2-8082-efff81d772e6)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
