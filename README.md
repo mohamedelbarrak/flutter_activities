@@ -94,6 +94,19 @@ Empty
 
 Full
 
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/6aa8febf-717a-4995-b6d8-20c4c0b0e570)
+
+On peut supprimer les activités.
+
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/81ecc5b6-64e1-4805-b993-0a0d8183489c)
+
+## Profile
+
+On peut modifier: Name, Birthday, Addresse, Postal Code et City
+
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/88e6eb1a-24ed-43e4-8a07-fd2e9836727f)
+
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/2e2b8b34-630a-45c4-a287-00ec259afaeb)
 
 ## Firebase
 
