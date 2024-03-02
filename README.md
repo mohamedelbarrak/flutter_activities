@@ -102,11 +102,13 @@ On peut supprimer les activités.
 
 ## Profile
 
-On peut modifier: Name, Birthday, Addresse, Postal Code et City
+On peut modifier: Name, Birthday, Addresse, Postal Code et City.
 
 ![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/88e6eb1a-24ed-43e4-8a07-fd2e9836727f)
 
 ![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/2e2b8b34-630a-45c4-a287-00ec259afaeb)
+
+La déconnexion se fait ici via le bouton Logout.
 
 ## Firebase
 
