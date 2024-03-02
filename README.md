@@ -118,4 +118,20 @@ Raccourcis de projet
 
 ![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/b2df2452-f154-4534-9e13-4a47c6a75e75)
 
+### Authentication
 
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/47456bc3-fb57-4ca3-902d-98b5c2d16297)
+
+### Cloud Firestore
+
+#### Activities
+
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/35267c14-7607-43c6-8b48-121a1c24e25b)
+
+#### Users
+
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/f26d2332-77e2-4423-814d-47f7b2bdcb1a)
+
+### Storage
+
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/c1b0a620-78d2-4c4c-922a-1145b2d66be2)
