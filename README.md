@@ -32,9 +32,16 @@ Ce projet consiste à développer une application mobile permettant de proposer 
 
 Email: mohamedelbarrak@gmail.com
 
-Password: 123456
+Password: 123456789
 
-![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/f7884239-775f-4a13-af5c-7e8c6efbcea9)
+
+Ancienne password: 123456 login ko
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/11ad053b-9fd5-4c2f-a26f-de8c3ee31f0b)
+
+New password: 123456789 login ok
+
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/91d3184f-19d5-4f71-971f-9b5bc641a91a)
+
 
 
 ## Firebase
