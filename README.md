@@ -2,6 +2,9 @@
 
 Ce projet consiste à développer une application mobile permettant de proposer des activités à réaliser en groupe. L'objectif est de créer une version MVP (Minimum viable product) qui répond aux besoins essentiels des utilisateurs. Le développement de l'application sera basé sur des User Stories, en suivant les méthodologies agiles.
 
+[Youtube demonstration](https://youtu.be/u4ycPElv8BI)
+
+
 Mobile
 
 ![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/25853ea1-b52e-4012-af8e-76e84446e95e)
@@ -10,7 +13,6 @@ Web
 
 ![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/f9dc73c6-371d-4c88-8aa1-68a4cdc58181)
 
-[Youtube demonstration](https://youtu.be/cNqfzNqpc4w)
 
 ## Sign up
 
