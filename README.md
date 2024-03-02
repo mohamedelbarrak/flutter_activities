@@ -2,7 +2,7 @@
 
 Ce projet consiste à développer une application mobile permettant de proposer des activités à réaliser en groupe. L'objectif est de créer une version MVP (Minimum viable product) qui répond aux besoins essentiels des utilisateurs. Le développement de l'application sera basé sur des User Stories, en suivant les méthodologies agiles.
 
-[Youtube demonstration](https://youtu.be/u4ycPElv8BI)
+[Youtube demonstration](https://youtu.be/4AXlCg9LQH0)
 
 
 [Application .apk](https://drive.google.com/file/d/1P-2UZWnhmySvyGwNFdpl9eYzaZxy3NxT/view?usp=sharing)
