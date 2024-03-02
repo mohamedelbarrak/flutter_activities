@@ -5,6 +5,9 @@ Ce projet consiste à développer une application mobile permettant de proposer 
 [Youtube demonstration](https://youtu.be/u4ycPElv8BI)
 
 
+[Application .apk](https://drive.google.com/file/d/1P-2UZWnhmySvyGwNFdpl9eYzaZxy3NxT/view?usp=sharing)
+
+
 Mobile
 
 ![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/25853ea1-b52e-4012-af8e-76e84446e95e)
