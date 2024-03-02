@@ -69,7 +69,7 @@ Juste les activités de sport
 
 Dans ce cas, nous n'avons pas encore d'activités de shopping disponibles
 
-![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/82ca0466-49ea-430b-9015-afa2727d51ef)
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/5b9ff442-135e-42e8-b27e-b283269c8863)
 
 #### Recreational Activities
 
