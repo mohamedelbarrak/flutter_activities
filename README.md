@@ -67,7 +67,7 @@ Juste les activités de sport
 
 #### Shopping Activities
 
-Dans ce cas, nous n'avons pas inclus d'activités liées au shopping
+Dans ce cas, nous n'avons pas encore d'activités de shopping disponibles
 
 ![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/82ca0466-49ea-430b-9015-afa2727d51ef)
 
