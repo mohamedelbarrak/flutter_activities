@@ -31,3 +31,12 @@ Password: 123456
 ![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/f7884239-775f-4a13-af5c-7e8c6efbcea9)
 
 
+## Firebase
+
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/29f84624-5e41-44a6-ac28-82970b608abf)
+
+Raccourcis de projet
+
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/b2df2452-f154-4534-9e13-4a47c6a75e75)
+
+
