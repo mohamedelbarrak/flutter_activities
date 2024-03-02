@@ -43,8 +43,39 @@ New password: 123456789 login ok
 
 ![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/91d3184f-19d5-4f71-971f-9b5bc641a91a)
 
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/fd26c6d6-0604-4cff-b37b-92f88cb817e4)
 
+## Home page
 
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/1904f164-a0f4-4ca1-af8c-4ce5d043d481)
+
+### Activities
+
+Il contient un filtre sur les activités, TabBarView: All, Sport, Shopping et Recreational
+
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/82ca0466-49ea-430b-9015-afa2727d51ef)
+
+#### All Activities
+
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/82ca0466-49ea-430b-9015-afa2727d51ef)
+
+#### Sport Activities
+
+Juste les activités de sport
+
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/bc43ff4b-37fb-4cf9-b0c1-3b1cfaa9abb2)
+
+#### Shopping Activities
+
+Dans ce cas, nous n'avons pas inclus d'activités liées au shopping
+
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/82ca0466-49ea-430b-9015-afa2727d51ef)
+
+#### Recreational Activities
+
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/7183c51b-6cd4-4f4a-9fa8-3fd3bef78162)
+
+### 
 
 ## Firebase
 
