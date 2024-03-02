@@ -5,5 +5,6 @@ Ce projet consiste à développer une application mobile permettant de proposer 
 ## Login
 Email: mohamedelbarrak@gmail.com
 Password: 123456
-![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/a1abae6a-a04a-4ec2-8082-efff81d772e6 | width=300)
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/f7884239-775f-4a13-af5c-7e8c6efbcea9)
+
 
