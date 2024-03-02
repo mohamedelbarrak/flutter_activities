@@ -9,6 +9,12 @@ Ce projet consiste à développer une application mobile permettant de proposer 
 
 ![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/a45c5668-7299-4131-ad38-5f4aab271f49)
 
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/7a9e6214-eb0f-4583-8c7e-d60810c17e0a)
+
+![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/7c75e1c2-51a6-4ee0-920a-7af8e87ab642)
+
+
+
 ## Forgot the password
 
 ![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/f5b4a0e3-a5d5-4b3a-af32-d6983d2d798d)
