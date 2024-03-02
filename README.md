@@ -81,18 +81,18 @@ Dans ce cas, nous n'avons pas encore d'activités de shopping disponibles
 
 ## Ajouter une activité
 
-Message ""
+Message "Your activity is added to cart"
 
 ![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/6fb9d9f5-e1cb-4752-9047-3b2bd7f6a1ac)
 
 
 ## Cart
 
-Vide
+Empty
 
 ![image](https://github.com/mohamedelbarrak/flutter_activities/assets/66890099/114da3b2-3014-457c-93a6-8c757e928953)
 
-Non vide
+Full
 
 
 ## Firebase
